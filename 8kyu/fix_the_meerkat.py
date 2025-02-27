@@ -8,6 +8,7 @@ Same goes for all the other arrays/lists that you will get in the tests: you hav
 
 Simples!
 '''
+#Solution
 
 def fix_the_meerkat(arr):
     return arr[::-1]
